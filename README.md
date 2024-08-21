@@ -5,12 +5,12 @@ Xây dụng một hệ thống giúp tổ chức quản lý món ăn trong nội
 •	Các chức năng chính:
 -	CRUD User
 -	Nhân viên
-    •	Thêm vào giỏ hàng.
-    •	Đặt món, Hủy món.
-    •	Xác nhận đơn hàng.
-    •	Lịch sử đặt hàng.
-    •	Thông kê chi phí.
-    •	Thanh toán.
+    -   Thêm vào giỏ hàng.
+    -   Đặt món, Hủy món.
+    -	Xác nhận đơn hàng.
+    	Lịch sử đặt hàng.
+    -	Thông kê chi phí.
+    -   	Thanh toán.
 -	Người quản lý.
     •	Gửi thông báo.
     •	Xác nhận thực đơn .
