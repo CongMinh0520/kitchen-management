@@ -1,4 +1,5 @@
 HỆ THỐNG QUẢN LÍ BẾP ÁN CHO DOANH NGHIỆP
+
 Xây dụng một hệ thống giúp tổ chức quản lý món ăn trong nội bộ một cách hiệu quả hơn, tiết kiệm thời gian và giảm lãng phí, đồng thời tạo điều kiện thuận lợi cho các bộ phận liên quan trong quá trình đặt món, giao nhận và thanh toán.
 
 •	Các chức năng chính:
